@@ -1,0 +1,23 @@
+{
+  "name": "clase5_gustavo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MArit67/clase5_gustavo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MArit67/clase5_gustavo/issues"
+  },
+  "homepage": "https://github.com/MArit67/clase5_gustavo#readme",
+  "devDependencies": {
+    "prettier": "^3.7.1"
+  }
+}
